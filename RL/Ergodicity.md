@@ -1,0 +1,1 @@
+The ergotic assumption means that every state in the state space can be reached from any other state with a non zero probability. 

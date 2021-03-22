@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "eddcd4305b30a170",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d1f00dcb8d518bd",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11ddb46168a7c9e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "079c2040b001c1a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "801855b1a519cb0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6b748282111960e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "right": {
+    "id": "76a7ab348d5485c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "96d2c19d7bee5ac6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d124f165157b3e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "SGD.md",
+    "Gradient Descent.md",
+    "Soft-Q.md",
+    "Cross Entropy Method.md",
+    "Untitled 1.md",
+    "Notes experiment.md",
+    "Inverse RL.md",
+    "Control as Inference.md",
+    "Notes experimetn.md",
+    "PPO.md"
+  ]
+}
